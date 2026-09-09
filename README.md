@@ -44,7 +44,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Devavrat Verma**, a developer from **Bhopal, Madhya Pradesh, India**, passionate about turning ideas into reliable, maintainable, and useful software.
+I'm **Devavrat Verma**, a developer from **Varanasi, Uttar Pradesh, India**, passionate about turning ideas into reliable, maintainable, and useful software.
 
 My work spans across **full-stack web development, Android engineering, machine learning, and AI-powered applications**. I enjoy understanding a problem from the system level and then designing the architecture, APIs, data layer, and user experience needed to solve it.
 
