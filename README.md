@@ -71,15 +71,15 @@ I'm particularly interested in systems where **traditional software engineering 
   <img src="https://streak-stats.demolab.com?user=Dev-Leet&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-30d.svg" width="98%" alt="GitHub Contribution Activity - Last 30 Days"/>
-</p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-30d.svg">30 Days</a> ·
-  <a href="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-90d.svg">90 Days</a> ·
-  <a href="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-365d.svg">365 Days</a>
+  <img
+    src="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-365d.svg"
+    width="98%"
+    alt="GitHub Contribution Activity - Last 365 Days"
+  />
 </p>
+
 
 ---
 
