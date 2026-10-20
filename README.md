@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,100:bb9af7&amp;height=190&amp;section=header&amp;text=Devavrat%20Verma&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Android%20Developer%20%7C%20ML%20%26%20AI%20Enthusiast&amp;descAlignY=58&amp;descSize=17" width="100%" alt="Devavrat Verma"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=190&section=header&text=Devavrat%20Verma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Developer%20%7C%20Software%20Enthusiast&descAlignY=58&descSize=17" width="100%" alt="Devavrat Verma"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,13 @@ I'm particularly interested in systems where **traditional software engineering 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Leet&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="GitHub Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-30d.svg" width="98%" alt="GitHub Contribution Activity - Last 30 Days"/>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-30d.svg">30 Days</a> ·
+  <a href="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-90d.svg">90 Days</a> ·
+  <a href="https://raw.githubusercontent.com/Dev-Leet/Dev-Leet/activity-assets/activity-365d.svg">365 Days</a>
 </p>
 
 ---
